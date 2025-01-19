@@ -1,8 +1,5 @@
 # Website of Catwine
-Use ![🍥Fuwari](https://github/saicaca/fuwari) as template
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-
-> README version: `2024-09-10`
+Powered by 🍥![Fuwari](https://github/saicaca/fuwari) and ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ## ⚙️ Frontmatter of Posts
 
@@ -15,7 +12,7 @@ image: ./cover.jpg
 tags: [Foo, Bar]
 category: Front-end
 draft: false
-lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
+lang: jp
 ---
 ```
 
