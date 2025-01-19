@@ -1,6 +1,6 @@
 # About
 Catwine
 
-::github{repo="saicaca/fuwari"}
+::github{repo="catwinee/catwinee.github.io"}
 
-> ### Sources of images used in this site
+https://github-readme-stats.vercel.app/api/pin/?username=saicaca&repo=fuwari
