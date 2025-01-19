@@ -56,16 +56,21 @@ export const profileConfig: ProfileConfig = {
   bio: 'Human hooked, machine learning.',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      name: 'Bilibili',
+      icon: 'fa6-brands:bilibili',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://space.bilibili.com/506351108?spm_id_from=333.1007.0.0',
+    },
+    {
+      name: 'Zhihu',
+      icon: 'fa6-brands:zhihu',
+      url: 'https://www.zhihu.com/people/mao-jiu-sui-62',
     },
     {
       name: 'Steam',
       icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      url: 'https://steamcommunity.com/profiles/76561198983669129/',
     },
     {
       name: 'GitHub',
