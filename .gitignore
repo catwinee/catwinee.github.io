@@ -13,9 +13,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# drafts
-src/content/draft
-
 # environment variables
 .env
 .env.production
