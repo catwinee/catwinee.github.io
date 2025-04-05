@@ -1,6 +1,6 @@
 ---
 title: "记录Wandb首次PR：Wandb Sweeper支持参数追加与覆盖"
-published: 2023-11-15
+published: 2025-4-2
 tags: [Hydra, Wandb, 机器学习工作流, 配置管理]
 category: 技术实践
 draft: false
